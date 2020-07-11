@@ -1,6 +1,4 @@
-# TIL-for-leecoco
-
-1주차 스터디(2020.07.09 - 07.16)
+## 1주차 스터디(2020.07.09 - 07.16)
 
 * [[백준 2557번] Hello World](https://www.acmicpc.net/problem/2557)
 
