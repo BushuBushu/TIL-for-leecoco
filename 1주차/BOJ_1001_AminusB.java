@@ -1,3 +1,4 @@
+//1주차 day6_0714
 import java.util.Scanner;
 public class BOJ_1001_AminusB {
 

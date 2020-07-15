@@ -1,3 +1,4 @@
+//1주차 day7_0715
 import java.util.Scanner;
 public class BOJ_1003_AxB{
     public static void main(String args[]){
